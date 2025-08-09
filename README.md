@@ -6,7 +6,7 @@
 
 3.20% of the dataset was used for testing.3 values for the first 3 days in test data are predicted from the start.
 
-4.In Ensemble Model,I used 4 models- Linear Regression,Random FOrest,Gradient Boost and XGBosst. Since Linear regression was performing significantly well,I used weighted average in favour of linear regression.3 predictions are given as output,for next 3 days.
+4.In Ensemble Model,I used 4 models- Linear Regression,Random FOrest,Gradient Boost and XGBoost. Since Linear regression was performing significantly well,I used weighted average in favour of linear regression.3 predictions are given as output,for next 3 days.
 
 5. RMSE is a key indicator of accuracy, it should be minimal.RMSE of 3.42 means that my model is very accurate.
    
